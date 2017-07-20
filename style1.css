@@ -1,0 +1,50 @@
+body{
+    background-color:white;
+    
+}
+p{
+    margin-top: .5em;
+    margin-bottom: auto;
+    margin-left: 4em;
+    margin-right: 2em;
+}
+#headcontainer{
+    background: #5197d5;
+    width: auto;
+    height: 45px;
+    color: white; 
+    margin:auto;
+    
+}
+#toolcontainer{
+    background: white;
+    width:auto;
+    height: 120px;
+    color:black;
+    margin:auto;
+    font-size: 25px;
+    margin-right: 150px;
+}
+
+#triangle1 {
+    border-right: 1725px solid transparent;
+    border-bottom: 600px solid #5197d5; 
+    position: fixed;
+}
+#triangle2 {
+    border-left: 1725px solid transparent;
+    border-top: 600px solid #d9d9d9; 
+    position: fixed;
+}
+tab1{
+    padding-left: 89em;
+}
+tab2{
+    padding-left: 15em;
+}
+tab3{
+    padding-left: 3em;
+}
+tab4{
+    padding-left: 6em;
+}
